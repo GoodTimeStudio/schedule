@@ -26,6 +26,12 @@ pip install mkdocs-material
     `任务3详解`
     :   去菜场买一个包子，如果看见西瓜就买两个
 
+    `留言SUHAO`
+    :   可以再买一盒炒面
+
+    `留言JAVA10`
+    :   已经鉴赏够了，快端下去罢
+
     - [ ] 任务4
     ``` mermaid
     graph LR
@@ -55,6 +61,12 @@ pip install mkdocs-material
 
     `任务3详解`
     :   去菜场买一个包子，如果看见西瓜就买两个
+
+    `留言SUHAO`
+    :   可以再买一盒炒面
+
+    `留言JAVA10`
+    :   已经鉴赏够了，快端下去罢
 
     - [ ] 任务4
     ``` mermaid

@@ -9,6 +9,7 @@
 ```
 pip install mkdocs-material
 ```
+PS：现在只需要push到main分支中就可以自动生成网页到gh-pages分支中，不再需要手动生成了。
 并且可在[此处](https://squidfunk.github.io/mkdocs-material/reference/)查看其使用方法
 ###编辑文本
 添加新的任务请按月份和任务类型分解
